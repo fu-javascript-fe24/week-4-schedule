@@ -19,7 +19,7 @@ Den här veckan tar vi steget från konsollprogrammering till att börja arbeta 
 
 ### Presentationer
 
-
+* [Introduktion till DOM-Manipulation](https://docs.google.com/presentation/d/14shzLzJ4glDSndq7fIgYo4HvrLv9urVY/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 
 ### Inspelade föreläsningar
@@ -28,8 +28,14 @@ Den här veckan tar vi steget från konsollprogrammering till att börja arbeta 
 
 **Förinspelat** (för distansklassen)
 
+* [Introduktion till DOM-manipulation - koncept](https://vimeo.com/1047850028/a2355f7875)
+* [Introduktion till DOM-manipulation - kodexempel](https://vimeo.com/758538789/e0819f2bfd?share=copy)
+
 ### Lektionsrepon
 
+* [20 jan]()
+* [21 jan]()
+* [22 jan]()
 
 
 ### Filmer
