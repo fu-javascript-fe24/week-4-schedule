@@ -52,6 +52,8 @@ Den här veckan tar vi steget från konsollprogrammering till att börja arbeta 
 ### Övningar 
 
 * [Code Review - Tic Tac Toe](https://github.com/fu-javascript-fe24/code-review-tic-tac-toe)
+* [DOM Bootcamp](https://github.com/fu-javascript-fe24/week-4-exercise-dom-bootcamp)
+* [DOM Product Page Exercise](https://github.com/fu-javascript-fe24/week-4-exercise-product-page)
 
 
 
