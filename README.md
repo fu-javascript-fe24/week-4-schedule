@@ -26,6 +26,8 @@ Den här veckan tar vi steget från konsollprogrammering till att börja arbeta 
 
 **LIVE**
 
+* [Introduktion till DOM-manipulation, 20 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EUMsx3vOXF9Km5LUyN9xmq8B44HvDl18vkM0jK-ZcGT7ug?e=LqaXjd)
+
 **Förinspelat** (för distansklassen)
 
 * [Introduktion till DOM-manipulation - koncept](https://vimeo.com/1047850028/a2355f7875)
