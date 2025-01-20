@@ -27,6 +27,7 @@ Den här veckan tar vi steget från konsollprogrammering till att börja arbeta 
 **LIVE**
 
 * [Introduktion till DOM-manipulation, 20 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EUMsx3vOXF9Km5LUyN9xmq8B44HvDl18vkM0jK-ZcGT7ug?e=LqaXjd)
+* [Genomgång av kod till DOM Bootcamp, 20 jan](https://funet-my.sharepoint.com/:v:/g/personal/jesper_nyberg_folkuniversitetet_se/EV4X-BQ5l3hDigvVl-NP9X8Bg2DDbpivk4lSmgNSFPNcvg?e=mIuoqX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Förinspelat** (för distansklassen)
 
