@@ -33,7 +33,7 @@ Den här veckan tar vi steget från konsollprogrammering till att börja arbeta 
 
 ### Lektionsrepon
 
-* [20 jan]()
+* [20 jan](https://github.com/fu-javascript-fe24/week-4-lecture-20-jan)
 * [21 jan]()
 * [22 jan]()
 
